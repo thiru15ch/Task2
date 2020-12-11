@@ -3,5 +3,7 @@
 ## Execution Steps
 
 git clone https://github.com/thiru15ch/Task2
-npm i 
+
+npm i
+
 ng serve
